@@ -287,6 +287,10 @@ PRODUCT_PACKAGES += \
     netutils-wrapper-1.0 \
     libandroid_net
 
+# ODIN
+PRODUCT_PACKAGES += \
+    ODIN
+
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \
